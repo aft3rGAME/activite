@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 int main()
 {
@@ -9,7 +9,7 @@ int main()
 	cout << "Quel age a tu?" << endl;
 	cin >> age ;
 	
-	naissance=annnee-age;
+	naissance=annee-age;
 
 	cout << "tu es donc nes en " << naissance << endl;
 
